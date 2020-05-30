@@ -1,2 +1,2 @@
-# coursera_capstone
-To fulfill aspects of data science course
+# Coursera_capstone
+Projeto final do certificado IBM Data-Science
